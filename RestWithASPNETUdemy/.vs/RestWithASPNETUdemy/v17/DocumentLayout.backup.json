@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\projetos\\RestWithASP-NET5Udemy\\RestWithASPNETUdemy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{252BFFE1-F2D6-4895-B0EA-B5B3445AA4A8}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|c:\\projetos\\restwithasp-net5udemy\\restwithaspnetudemy\\restwithaspnetudemy\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{252BFFE1-F2D6-4895-B0EA-B5B3445AA4A8}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|solutionrelative:restwithaspnetudemy\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\projetos\\RestWithASP-NET5Udemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "RestWithASPNETUdemy\\WeatherForecast.cs",
+              "ToolTip": "C:\\projetos\\RestWithASP-NET5Udemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\WeatherForecast.cs",
+              "RelativeToolTip": "RestWithASPNETUdemy\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T21:13:36.498Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
